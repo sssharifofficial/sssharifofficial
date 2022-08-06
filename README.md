@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @sssharifofficial
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sssharifofficial/sssharifofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m S. S. Sharif
+- 👀 I’m expert in Web & Wordpress | Shopify | Wix | Squarespace.
+- 🌱 I’m currently Work In ... Fiverr and Upwork
